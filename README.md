@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋🏻 I'm @LucaA011, a computer science student<br>📚 I'm currently learning Java</p>
+<p align="left">👋🏻 I'm @LucaA0111, a computer science student<br>📚 I'm currently learning Java</p>
 
 ###
 
@@ -12,6 +12,8 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
 </div>
 
 ###
