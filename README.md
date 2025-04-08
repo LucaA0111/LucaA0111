@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋🏻 I'm @LucaA0111, a computer science student<br>📚 I'm currently learning Java</p>
+<p align="left">👋🏻 I'm @LucaA0111, a computer science student @ UniMib<br></p>
 
 ###
 
